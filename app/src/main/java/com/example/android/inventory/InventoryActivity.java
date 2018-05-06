@@ -1,8 +1,6 @@
 package com.example.android.inventory;
 
 
-
-
 import android.app.AlertDialog;
 import android.app.LoaderManager;
 import android.content.ContentUris;

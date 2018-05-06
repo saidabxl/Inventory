@@ -17,7 +17,7 @@
                 android:layout_marginRight="@dimen/list_item_textview_marginRight"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="20sp"
-                tools:text="product name" />
+                tools:text="Item name" />
         </LinearLayout>
 
         <LinearLayout
@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorPrimary"
-                tools:text="product quantity" />
+                tools:text="Item quantity" />
         </LinearLayout>
     </LinearLayout>
 
@@ -44,7 +44,7 @@
                     android:id="@+id/product_price_text_view"
                     style="@style/ListItemText"
                     android:layout_width="wrap_content"
-                    tools:text="product price" />
+                    tools:text="Item price" />
             </LinearLayout>
 
             <LinearLayout style="@style/ListItemLinearLayoutsection2">

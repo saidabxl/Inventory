@@ -1,16 +1,16 @@
 <resources>
     <string name="app_name">Inventory</string>
 
-    <!-- activity_inventory -->
+
     <string name="empty_view_text">Get started by adding a product :)</string>
     <string name="action_delete_all_products">Delete All Products</string>
     <string name="delete_all_dialog_msg">Delete All these Products ?</string>
-    <!-- activity_editor -->
+
     <string name="add_product">Add New Item</string>
     <string name="product_editor">Items Editor</string>
     <string name="edit_product">Edit Item</string>
 
-    <!--  supplier name list -->
+
     <string name="supplier_unknown">Unknown</string>
     <string name="supplier_amazon">Amazon</string>
     <string name="supplier_ebay">Ebay</string>
@@ -20,13 +20,13 @@
     <string name="discard">Discard</string>
     <string name="keep_editing">Keep Editing</string>
 
-    <!-- activity_view -->
+
     <string name="product_view">Item view Details</string>
     <string name="delete_dialog_msg">Delete this Item</string>
     <string name="quantity_change_msg">Quantity has been changed</string>
     <string name="quantity_finish_msg">Item is finish :( , buy another Item</string>
 
-    <!-- activity_view and activity_editor-->
+
     <string name="product_name">Item Name</string>
     <string name="product_price">Price</string>
     <string name="product_price_currency">Euros</string>

@@ -163,7 +163,7 @@ public class EditorActivity extends AppCompatActivity implements LoaderManager.L
                         Toast.LENGTH_SHORT).show();
                 finish();
             }
-        }else{
+        } else {
 
             if (TextUtils.isEmpty(productNameString)) {
                 Toast.makeText(this, getString(R.string.product_name_requires), Toast.LENGTH_SHORT).show();
